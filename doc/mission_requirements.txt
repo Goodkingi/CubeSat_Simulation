@@ -1,0 +1,7 @@
+Mission: 3U CubeSat in LEO
+Objectives:
+- Environmental observation (optical camera, temperature, atmospheric gases)
+- GPS-based position tracking
+- S-band communication with ground station (AX.25 protocol)
+- Attitude control for nadir pointing and maneuvers
+Orbit: ~500 km altitude, ~51.6° inclination
