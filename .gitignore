@@ -1,0 +1,10 @@
+# MATLAB-specific files
+*.asv
+*.slxc
+*.matlab
+slprj/
+*.slx.autosave
+
+# General temporary files
+*.bak
+*.tmp
