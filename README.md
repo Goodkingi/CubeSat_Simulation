@@ -10,6 +10,7 @@ This project simulates the attitude control of a CubeSat using MATLAB and Simuli
 1. Clone this repository.
 2. Open MATLAB and navigate to the project folder.
 3. Run `scripts/create_cubesat_attitude_model_custom.m` to build the Simulink model.
+4. Check `results/` for simulation outputs.
 
 ## Requirements
 - MATLAB R2023b
