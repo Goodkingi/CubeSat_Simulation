@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CubeSat Simulation
 This project simulates the attitude control of a CubeSat using MATLAB and Simulink.
 
@@ -45,3 +46,6 @@ This project simulates the attitude control of a CubeSat using MATLAB and Simuli
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+simulink
+>>>>>>> ff6a108386e7054fc387ab3a0214f8fb97685d9a
